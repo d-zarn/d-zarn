@@ -11,8 +11,7 @@
 ## Projects
 
 ### **HoleOut** - A Golf Scorekeeping App
-![HoleOutDark_512x512](https://github.com/user-attachments/assets/061db66b-f181-4bc4-9c67-f60833964d28)
-
+![HoleOutDark_256x256](https://github.com/user-attachments/assets/7b2e2cfb-727f-44d5-9dab-202cb2476294)
 
 This app is a very simplified version of the scorekeeping apps available today. You can track and save your score during a round at the golf courses I've implemented and that's about it.
 
