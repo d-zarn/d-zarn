@@ -39,6 +39,6 @@ Currently I’m enrolled in the following classes:
 
 Since I have all my electives covered by my prior degree, I don’t need to take anything outside of the core required courses for the degree. Given that, I’m also pursuing a minor in mathematics as I’ll have some courses to fill in my final terms.
 
-I’m also currently working in the logistics and supply chain industry where I’m a Canadian customs import analyst. In the time I have between work and classes I’m trying to learn Rust, and everything else I can to improve as a developer and human.
+I’m also currently working in the logistics and supply chain industry where I’m a Canadian customs import analyst. In the time I have between work and classes I’m working on a workout tracker app (basic I know, I don't want to pay for a better one), learning Rust, and everything else I can to improve as a developer and human.
 
 I’m also in the process of applying for internships, and thinking of other fun projects.
