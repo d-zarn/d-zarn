@@ -1,6 +1,6 @@
 # Howdy 🤠
 
-## Get to Know Me a Little
+## Get to Know Me
 
 - 💻 I'm an computer science undergrad currently enrolled at the University of Manitoba (U of M), with plans to graduate in April of 2026.
 - 🧠 I previously obtained a B.Sc. in Psychology with a minor in statistics from the U of M as well, prior to entering the computer science program.
