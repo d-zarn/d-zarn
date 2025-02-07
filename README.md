@@ -12,6 +12,7 @@
 
 ### **HoleOut** - A Golf Scorekeeping App
 ![HoleOutDark_256x256](https://github.com/user-attachments/assets/35d9600c-af0f-44ab-b52f-e79880bffa8c)
+
 This app is a very simplified version of the scorekeeping apps available today. You can track and save your score during a round at the golf courses I've implemented and that's about it.
 
 My motivation for making this app was the high subscription prices of many of the modern scorekeeping apps to access features like Apple Watch scoring or yardages, and advanced statistics from your past rounds. In working on this project, I immediately ran into the high costs for access to many of the databases providing golf course data and quickly connected the dots. Therefore, the only courses I’ve implemented are a few local ones that I frequent, and mapping capabilities are not yet implemented.
