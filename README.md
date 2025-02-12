@@ -2,7 +2,7 @@
 
 ## Get to Know Me
 
-- I'm an computer science undergrad currently enrolled at the University of Manitoba (U of M), with plans to graduate in April of 2026.
+- I'm an computer science undergrad currently enrolled at the University of Manitoba, with plans to graduate in April of 2026.
 - I hold a B.Sc. in Psychology with a minor in statistics from the U of M
 - I'm a huge NBA fan. Go Raps.
 - I'm also an avid golfer. I've been playing since I was around 7 years old but only recently began to take it more seriously as a sport.
