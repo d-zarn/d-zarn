@@ -16,8 +16,6 @@ This app is a very simplified version of the scorekeeping apps available today, 
 
 I plan on implementing a stats view which summarizes your statistics from saved rounds for some nice visual feedback on your performance over time. I'm also hoping to add a watch companion app with scoring and hopefully GPS distance capabilities, As well as exploring other iOS features such as Live Notifications and HealthKit integrations.
 
-This is my first project that wasn't assigned to me in a class and also my first foray into Swift and app development. I thoroughly enjoyed the experience, and learned a lot about different app architectures as well as UI design.
-
 ### Zones.c - Zone Based Memory Manager in C
 
 This was an assignment for my programming practices class. We were given a header file with the required methods for the implementation, as well as multiple test files including a game our prof had written that used the memory manager. We were then required to write our memory manager to pass all the tests given and be usable by the game.
